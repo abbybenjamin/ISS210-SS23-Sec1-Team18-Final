@@ -1,5 +1,5 @@
 # ISS210FinalTemplate
-This is a template for the ISS210's final webstie on social justice (not required for students to use).
+This is a template for the ISS210's final webstie on recycling.
 You should use this file to drop citations for all the images, articles, etc. that you use. 
 Be sure to replace the following with your substitions.
 ISSFront: recycling photo for first page.jpeg
