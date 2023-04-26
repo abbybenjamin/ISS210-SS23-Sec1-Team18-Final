@@ -3,7 +3,7 @@ This is a template for Team 18's ISS210SS23 final webstie on recycling.
 You should use this file to drop citations for all the images, articles, etc. that you use. 
 Be sure to replace the following with your substitions.
 Title page photo: https://ezop.com/blog/water-cooler-talk/dos-donts-of-recycling-wisconsin/
-Porfolio image 1: [https://www.pinterest.ca/pin/408772103654309571/](https://www.latimes.com/world/global-development/la-fg-global-trash-20160422-20160421-snap-htmlstory.html)
+Porfolio image 1: https://www.latimes.com/world/global-development/la-fg-global-trash-20160422-20160421-snap-htmlstory.html
 Porfolio 2 video : https://www.youtube.com/watch?v=Cti5HQZnTrQ
 Porfolio image 3: (https://gabrielfariasiribarren.com/moda-circular-es-reciclaje-de-textiles/)
 Porfolio image 4: https://michiganrecycles.org/
